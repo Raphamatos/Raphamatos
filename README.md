@@ -8,8 +8,8 @@
             https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](stefanmatos59@gmail.com) 
 
-![Rapha matos GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphamatos&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphamatos&layout=compact&theme=graywhite) ![Rapha matos GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphamatos&show_icons=true&theme=graywhite)
+ 
 ## Tecnologias que uso no meu dia
 <div>
     <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -23,6 +23,5 @@
     <img  alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
     />
 </div>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphamatos)](https://github.com/Raphamatos)
+<br>
