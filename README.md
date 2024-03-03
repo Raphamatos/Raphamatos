@@ -23,3 +23,6 @@
     <img  alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
     />
 </div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphamatos)](https://github.com/Raphamatos)
