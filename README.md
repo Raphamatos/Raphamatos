@@ -7,7 +7,8 @@
 )](sraphael_matos) [![GMAIL](
             https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](stefanmatos59@gmail.com) 
- 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphamatos&layout=compact&theme=graywhite)
 ## Tecnologias que uso no meu dia
 <div>
     <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
