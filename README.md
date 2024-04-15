@@ -22,6 +22,7 @@
     <img  alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
     />
 </div>    
+
 ## Tecnologias em processo de aprendizagem
 <div>
 <img  alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
